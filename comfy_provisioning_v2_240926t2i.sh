@@ -35,6 +35,12 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #juggernautxl
     "https://civitai.com/api/download/models/782002?type=Model&format=SafeTensor&size=full&fp=fp16"
+    #lyriel
+    "https://civitai.com/api/download/models/72396?type=Model&format=SafeTensor&size=full&fp=fp16"
+    #arthemycomics
+    "https://civitai.com/api/download/models/441591?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #arthemyreal
+    "https://civitai.com/api/download/models/271398?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 )
 
 UNET_MODELS=(
