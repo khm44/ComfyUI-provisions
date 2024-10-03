@@ -41,6 +41,8 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/441591?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #arthemyreal
     "https://civitai.com/api/download/models/271398?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #helloworldxl
+    "https://civitai.com/api/download/models/570138?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 )
 
 UNET_MODELS=(
